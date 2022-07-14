@@ -1,0 +1,542 @@
+21:28:11.847 [main] INFO  testCases.TC_001_AccountRegistrationPage - Starting TC_001_AccountRegistrationPage
+21:28:20.506 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicking on MyAccount under Register Link 
+21:28:23.743 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer First Name
+21:28:23.912 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Last Name
+21:28:24.122 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Gmail
+21:28:24.332 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Telephone Number
+21:28:24.494 [main] INFO  testCases.TC_001_AccountRegistrationPage - Set Password and Confirm Password
+21:28:24.812 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Privacy Policy
+21:28:24.935 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Continue Button
+21:28:28.938 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Login Information
+07:53:27.622 [main] INFO  testCases.TC_001_AccountRegistrationPage - Starting TC_001_AccountRegistrationPage
+07:54:04.373 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicking on MyAccount under Register Link 
+07:54:10.774 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer First Name
+07:54:11.056 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Last Name
+07:54:11.231 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Gmail
+07:54:11.504 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Telephone Number
+07:54:11.787 [main] INFO  testCases.TC_001_AccountRegistrationPage - Set Password and Confirm Password
+07:54:12.130 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Privacy Policy
+07:54:12.262 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Continue Button
+07:54:18.788 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Login Information
+07:54:18.788 [main] INFO  testCases.TC_001_AccountRegistrationPage - Registration Test Passed
+08:20:51.290 [main] INFO  testCases.TC_001_AccountRegistrationPage - Starting TC_001_AccountRegistrationPage
+08:20:57.717 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicking on MyAccount under Register Link 
+08:21:01.043 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer First Name
+08:21:01.256 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Last Name
+08:21:01.437 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Gmail
+08:21:01.621 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Telephone Number
+08:21:01.750 [main] INFO  testCases.TC_001_AccountRegistrationPage - Set Password and Confirm Password
+08:21:02.066 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Privacy Policy
+08:21:02.173 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Continue Button
+08:21:05.494 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Login Information
+08:21:05.494 [main] INFO  testCases.TC_001_AccountRegistrationPage - Registration Test Passed
+08:27:27.030 [main] INFO  testCases.TC_001_AccountRegistrationPage - Starting TC_001_AccountRegistrationPage
+08:27:32.917 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicking on MyAccount under Register Link 
+08:27:34.280 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer First Name
+08:27:34.466 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Last Name
+08:27:34.629 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Gmail
+08:27:34.792 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Telephone Number
+08:27:34.939 [main] INFO  testCases.TC_001_AccountRegistrationPage - Set Password and Confirm Password
+08:27:35.229 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Privacy Policy
+08:27:35.322 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Continue Button
+08:27:38.460 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Login Information
+08:27:38.482 [main] INFO  testCases.TC_001_AccountRegistrationPage - Registration Test Passed
+08:41:08.971 [main] INFO  testCases.TC_001_AccountRegistrationPage - Starting TC_001_AccountRegistrationPage
+08:41:15.498 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicking on MyAccount under Register Link 
+08:41:18.941 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer First Name
+08:41:19.132 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Last Name
+08:41:19.320 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Gmail
+08:41:19.520 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Telephone Number
+08:41:19.657 [main] INFO  testCases.TC_001_AccountRegistrationPage - Set Password and Confirm Password
+08:41:19.960 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Privacy Policy
+08:41:20.084 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Continue Button
+08:41:23.294 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Login Information
+08:41:23.294 [main] INFO  testCases.TC_001_AccountRegistrationPage - Registration Test Passed
+08:42:07.685 [main] INFO  testCases.TC_001_AccountRegistrationPage - Starting TC_001_AccountRegistrationPage
+08:42:14.507 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicking on MyAccount under Register Link 
+08:42:16.322 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer First Name
+08:42:16.533 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Last Name
+08:42:16.731 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Gmail
+08:42:16.933 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Telephone Number
+08:42:17.099 [main] INFO  testCases.TC_001_AccountRegistrationPage - Set Password and Confirm Password
+08:42:17.451 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Privacy Policy
+08:42:17.602 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Continue Button
+08:42:20.674 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Login Information
+08:42:20.674 [main] INFO  testCases.TC_001_AccountRegistrationPage - Registration Test Passed
+09:01:00.413 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationPage - Starting TC_001_AccountRegistrationPage
+09:01:00.484 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Starting TC_001_AccountRegistrationPage
+09:01:11.638 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Clicking on MyAccount under Register Link 
+09:01:11.746 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationPage - Clicking on MyAccount under Register Link 
+09:01:15.084 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer First Name
+09:01:15.192 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer First Name
+09:01:15.506 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Last Name
+09:01:15.515 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Last Name
+09:01:15.939 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Gmail
+09:01:15.968 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Gmail
+09:01:16.239 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Telephone Number
+09:01:16.295 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Telephone Number
+09:01:16.471 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Set Password and Confirm Password
+09:01:16.566 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationPage - Set Password and Confirm Password
+09:01:16.989 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Privacy Policy
+09:01:17.161 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Privacy Policy
+09:01:17.211 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Continue Button
+09:01:17.405 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Continue Button
+09:01:21.582 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Provided Login Information
+09:01:21.582 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Registration Test Passed
+09:01:21.599 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationPage - Provided Login Information
+09:01:21.600 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationPage - Registration Test Passed
+10:06:15.646 [main] INFO  testCases.TC_001_AccountRegistrationPage - Starting TC_001_AccountRegistrationPage
+10:06:23.028 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicking on MyAccount under Register Link 
+10:06:24.496 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer First Name
+10:06:24.668 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Last Name
+10:06:24.848 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Gmail
+10:06:25.081 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Telephone Number
+10:06:25.239 [main] INFO  testCases.TC_001_AccountRegistrationPage - Set Password and Confirm Password
+10:06:25.597 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Privacy Policy
+10:06:25.756 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Continue Button
+10:06:30.108 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Login Information
+10:06:30.108 [main] INFO  testCases.TC_001_AccountRegistrationPage - Registration Test Passed
+19:15:24.344 [main] INFO  testCases.TC_001_AccountRegistrationPage - Starting TC_001_AccountRegistrationPage
+19:15:48.843 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicking on MyAccount under Register Link 
+19:15:53.399 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer First Name
+19:15:54.383 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Last Name
+19:15:54.626 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Gmail
+19:15:54.959 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Telephone Number
+19:15:55.153 [main] INFO  testCases.TC_001_AccountRegistrationPage - Set Password and Confirm Password
+19:15:55.637 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Privacy Policy
+19:15:55.750 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Continue Button
+19:16:04.498 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Login Information
+19:16:04.499 [main] INFO  testCases.TC_001_AccountRegistrationPage - Registration Test Passed
+
+
+20:53:04.417 [main] INFO  testCases.TC_001_AccountRegistrationPage - Starting TC_001_AccountRegistrationPage
+20:53:28.788 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicking on MyAccount under Register Link 
+20:53:34.342 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer First Name
+20:53:34.789 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Last Name
+20:53:34.985 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Gmail
+20:53:35.232 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Telephone Number
+20:53:35.396 [main] INFO  testCases.TC_001_AccountRegistrationPage - Set Password and Confirm Password
+20:53:35.755 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Privacy Policy
+20:53:35.883 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Continue Button
+20:53:43.013 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Login Information
+20:53:43.013 [main] INFO  testCases.TC_001_AccountRegistrationPage - Registration Test Passed
+12:16:55.867 [main] INFO  testCases.TC_001_AccountRegistrationPage - Starting TC_001_AccountRegistrationPage
+12:17:05.360 [main] FATAL testCases.TC_001_AccountRegistrationPage - Registration Test Failed
+12:18:04.729 [main] INFO  testCases.TC_001_AccountRegistrationPage - Starting TC_001_AccountRegistrationPage
+12:18:27.991 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicking on MyAccount under Register Link 
+12:18:31.371 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer First Name
+12:18:31.839 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Last Name
+12:18:32.011 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Gmail
+12:18:32.579 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Telephone Number
+12:18:32.796 [main] INFO  testCases.TC_001_AccountRegistrationPage - Set Password and Confirm Password
+12:18:33.119 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Privacy Policy
+12:18:33.232 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Continue Button
+12:18:38.954 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Login Information
+12:18:38.955 [main] INFO  testCases.TC_001_AccountRegistrationPage - Registration Test Passed
+16:00:32.986 [main] INFO  testCases.TC_001_AccountRegistrationPage - Starting TC_001_AccountRegistrationPage
+16:00:41.181 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicking on MyAccount under Register Link 
+16:00:45.942 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer First Name
+16:00:46.278 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Last Name
+16:00:46.442 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Gmail
+16:00:46.630 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Telephone Number
+16:00:46.763 [main] INFO  testCases.TC_001_AccountRegistrationPage - Set Password and Confirm Password
+16:00:47.068 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Privacy Policy
+16:00:47.166 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Continue Button
+16:00:50.892 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Login Information
+16:00:50.893 [main] INFO  testCases.TC_001_AccountRegistrationPage - Registration Test Passed
+17:47:14.171 [main] INFO  testCases.TC_001_AccountRegistrationPage - Starting TC_001_AccountRegistrationPage
+17:47:20.412 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicking on MyAccount under Register Link 
+17:47:25.963 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer First Name
+17:47:27.076 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Last Name
+17:47:27.322 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Gmail
+17:47:27.531 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Telephone Number
+17:47:27.670 [main] INFO  testCases.TC_001_AccountRegistrationPage - Set Password and Confirm Password
+17:47:27.996 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Privacy Policy
+17:47:28.118 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Continue Button
+17:47:33.340 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Login Information
+17:47:33.340 [main] INFO  testCases.TC_001_AccountRegistrationPage - Registration Test Passed
+17:47:40.784 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+17:47:46.708 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+17:47:47.700 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+17:48:07.786 [main] FATAL testCases.TC_002_Login - Login Failed 
+17:49:52.388 [main] INFO  testCases.TC_001_AccountRegistrationPage - Starting TC_001_AccountRegistrationPage
+17:49:59.477 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicking on MyAccount under Register Link 
+17:50:02.132 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer First Name
+17:50:02.388 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Last Name
+17:50:02.768 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Gmail
+17:50:02.910 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Telephone Number
+17:50:03.055 [main] INFO  testCases.TC_001_AccountRegistrationPage - Set Password and Confirm Password
+17:50:03.366 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Privacy Policy
+17:50:03.462 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Continue Button
+17:50:06.456 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Login Information
+17:50:06.456 [main] INFO  testCases.TC_001_AccountRegistrationPage - Registration Test Passed
+17:50:11.477 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+17:50:18.111 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+17:50:20.486 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+17:50:40.517 [main] FATAL testCases.TC_002_Login - Login Failed 
+13:58:12.282 [main] INFO  testCases.TC_001_AccountRegistrationPage - Starting TC_001_AccountRegistrationPage
+13:58:47.396 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicking on MyAccount under Register Link 
+13:58:53.153 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer First Name
+13:58:55.866 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Last Name
+13:58:56.063 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Gmail
+13:58:56.317 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Telephone Number
+13:58:56.541 [main] INFO  testCases.TC_001_AccountRegistrationPage - Set Password and Confirm Password
+13:58:56.891 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Privacy Policy
+13:58:57.016 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Continue Button
+13:59:03.406 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Login Information
+13:59:03.406 [main] INFO  testCases.TC_001_AccountRegistrationPage - Registration Test Passed
+13:59:08.654 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+13:59:18.209 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+13:59:21.922 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+13:59:41.981 [main] FATAL testCases.TC_002_Login - Login Failed 
+14:02:59.559 [main] INFO  testCases.TC_001_AccountRegistrationPage - Starting TC_001_AccountRegistrationPage
+14:03:04.703 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicking on MyAccount under Register Link 
+14:03:07.342 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer First Name
+14:03:07.555 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Last Name
+14:03:07.761 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Gmail
+14:03:07.928 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Telephone Number
+14:03:08.062 [main] INFO  testCases.TC_001_AccountRegistrationPage - Set Password and Confirm Password
+14:03:08.432 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Privacy Policy
+14:03:08.522 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Continue Button
+14:03:14.045 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Login Information
+14:03:14.046 [main] INFO  testCases.TC_001_AccountRegistrationPage - Registration Test Passed
+14:03:18.161 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+14:03:24.369 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+14:03:25.154 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+14:03:45.184 [main] FATAL testCases.TC_002_Login - Login Failed 
+14:22:16.697 [main] INFO  testCases.TC_001_AccountRegistrationPage - Starting TC_001_AccountRegistrationPage
+14:22:23.555 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicking on MyAccount under Register Link 
+14:22:29.728 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer First Name
+14:22:29.916 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Last Name
+14:22:30.141 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Gmail
+14:22:30.315 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Telephone Number
+14:22:30.462 [main] INFO  testCases.TC_001_AccountRegistrationPage - Set Password and Confirm Password
+14:22:30.750 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Privacy Policy
+14:22:30.841 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Continue Button
+14:22:34.008 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Login Information
+14:22:34.009 [main] INFO  testCases.TC_001_AccountRegistrationPage - Registration Test Passed
+14:22:38.775 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+14:22:44.742 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+14:22:47.530 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+14:23:07.597 [main] FATAL testCases.TC_002_Login - Login Failed 
+20:50:21.194 [main] INFO  testCases.TC_001_AccountRegistrationPage - Starting TC_001_AccountRegistrationPage
+20:50:26.279 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicking on MyAccount under Register Link 
+20:50:31.231 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer First Name
+20:50:31.405 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Last Name
+20:50:31.543 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Gmail
+20:50:31.820 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Telephone Number
+20:50:31.976 [main] INFO  testCases.TC_001_AccountRegistrationPage - Set Password and Confirm Password
+20:50:32.343 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Privacy Policy
+20:50:32.433 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Continue Button
+20:50:36.204 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Login Information
+20:50:36.204 [main] INFO  testCases.TC_001_AccountRegistrationPage - Registration Test Passed
+20:50:40.748 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+20:50:46.334 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+20:50:46.964 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+20:51:07.033 [main] FATAL testCases.TC_002_Login - Login Failed 
+20:53:05.291 [main] INFO  testCases.TC_001_AccountRegistrationPage - Starting TC_001_AccountRegistrationPage
+20:53:13.604 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicking on MyAccount under Register Link 
+20:53:20.802 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer First Name
+20:53:20.962 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Last Name
+20:53:21.115 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Gmail
+20:53:21.290 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Telephone Number
+20:53:21.426 [main] INFO  testCases.TC_001_AccountRegistrationPage - Set Password and Confirm Password
+20:53:21.745 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Privacy Policy
+20:53:21.842 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Continue Button
+20:53:26.886 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Login Information
+20:53:26.886 [main] INFO  testCases.TC_001_AccountRegistrationPage - Registration Test Passed
+20:53:30.958 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+20:53:35.361 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+20:53:35.893 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+20:53:55.939 [main] FATAL testCases.TC_002_Login - Login Failed 
+21:02:42.387 [main] INFO  testCases.TC_001_AccountRegistrationPage - Starting TC_001_AccountRegistrationPage
+21:02:48.937 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicking on MyAccount under Register Link 
+21:02:53.069 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer First Name
+21:02:53.244 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Last Name
+21:02:53.495 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Gmail
+21:02:53.690 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Telephone Number
+21:02:53.868 [main] INFO  testCases.TC_001_AccountRegistrationPage - Set Password and Confirm Password
+21:02:54.201 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Privacy Policy
+21:02:54.294 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Continue Button
+21:02:57.708 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Login Information
+21:02:57.709 [main] INFO  testCases.TC_001_AccountRegistrationPage - Registration Test Passed
+21:03:02.261 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+21:03:08.759 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+21:03:09.528 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+21:03:29.601 [main] FATAL testCases.TC_002_Login - Login Failed 
+21:18:46.407 [main] INFO  testCases.TC_001_AccountRegistrationPage - Starting TC_001_AccountRegistrationPage
+21:18:53.561 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicking on MyAccount under Register Link 
+21:18:55.898 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer First Name
+21:18:56.205 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Last Name
+21:18:56.483 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Gmail
+21:18:56.664 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Telephone Number
+21:18:56.838 [main] INFO  testCases.TC_001_AccountRegistrationPage - Set Password and Confirm Password
+21:18:57.379 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Privacy Policy
+21:18:57.508 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Continue Button
+21:19:03.089 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Login Information
+21:19:03.089 [main] INFO  testCases.TC_001_AccountRegistrationPage - Registration Test Passed
+21:19:09.142 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+21:19:14.531 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+21:19:15.167 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+21:19:35.281 [main] FATAL testCases.TC_002_Login - Login Failed 
+21:23:33.360 [main] INFO  testCases.TC_001_AccountRegistrationPage - Starting TC_001_AccountRegistrationPage
+21:23:39.325 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicking on MyAccount under Register Link 
+21:23:40.870 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer First Name
+21:23:41.079 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Last Name
+21:23:41.279 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Gmail
+21:23:41.512 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Telephone Number
+21:23:41.688 [main] INFO  testCases.TC_001_AccountRegistrationPage - Set Password and Confirm Password
+21:23:42.055 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Privacy Policy
+21:23:42.575 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Continue Button
+21:23:45.824 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Login Information
+21:23:45.824 [main] INFO  testCases.TC_001_AccountRegistrationPage - Registration Test Passed
+21:23:52.497 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+21:23:59.034 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+21:23:59.479 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+21:24:19.522 [main] FATAL testCases.TC_002_Login - Login Failed 
+21:52:11.426 [main] INFO  testCases.TC_001_AccountRegistrationPage - Starting TC_001_AccountRegistrationPage
+21:52:17.059 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicking on MyAccount under Register Link 
+21:52:18.399 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer First Name
+21:52:18.633 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Last Name
+21:52:18.824 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Gmail
+21:52:19.120 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Telephone Number
+21:52:19.355 [main] INFO  testCases.TC_001_AccountRegistrationPage - Set Password and Confirm Password
+21:52:19.661 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Privacy Policy
+21:52:19.781 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Continue Button
+21:52:23.014 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Login Information
+21:52:23.014 [main] INFO  testCases.TC_001_AccountRegistrationPage - Registration Test Passed
+21:52:27.157 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+21:52:32.656 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+21:52:32.967 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+07:34:35.159 [main] INFO  testCases.TC_001_AccountRegistrationPage - Starting TC_001_AccountRegistrationPage
+07:35:00.952 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicking on MyAccount under Register Link 
+07:35:07.530 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer First Name
+07:35:07.985 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Last Name
+07:35:08.174 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Gmail
+07:35:08.355 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Telephone Number
+07:35:08.491 [main] INFO  testCases.TC_001_AccountRegistrationPage - Set Password and Confirm Password
+07:35:08.780 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Privacy Policy
+07:35:08.886 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Continue Button
+07:35:15.225 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Login Information
+07:35:15.225 [main] INFO  testCases.TC_001_AccountRegistrationPage - Registration Test Passed
+07:35:19.339 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+07:35:25.757 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+07:35:26.225 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+07:56:54.024 [main] INFO  testCases.TC_001_AccountRegistrationPage - Starting TC_001_AccountRegistrationPage
+07:57:02.971 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicking on MyAccount under Register Link 
+07:57:10.977 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer First Name
+07:57:11.189 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Last Name
+07:57:11.383 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Gmail
+07:57:11.586 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Telephone Number
+07:57:11.733 [main] INFO  testCases.TC_001_AccountRegistrationPage - Set Password and Confirm Password
+07:57:12.031 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Privacy Policy
+07:57:12.144 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Continue Button
+07:57:15.415 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Login Information
+07:57:15.416 [main] INFO  testCases.TC_001_AccountRegistrationPage - Registration Test Passed
+07:57:22.703 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+07:57:30.357 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+07:57:43.897 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+08:01:30.141 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+08:01:38.105 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+08:01:38.446 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+10:30:16.230 [main] INFO  testCases.TC_001_AccountRegistrationPage - Starting TC_001_AccountRegistrationPage
+10:30:40.310 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicking on MyAccount under Register Link 
+10:30:45.212 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer First Name
+10:30:45.706 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Last Name
+10:30:45.931 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Gmail
+10:30:46.146 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Telephone Number
+10:30:46.287 [main] INFO  testCases.TC_001_AccountRegistrationPage - Set Password and Confirm Password
+10:30:46.596 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Privacy Policy
+10:30:46.708 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Continue Button
+10:30:52.945 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Login Information
+10:30:52.945 [main] INFO  testCases.TC_001_AccountRegistrationPage - Registration Test Passed
+10:30:57.397 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+10:31:02.144 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+10:31:02.728 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+10:49:05.187 [main] INFO  testCases.TC_001_AccountRegistrationPage - Starting TC_001_AccountRegistrationPage
+10:49:11.050 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicking on MyAccount under Register Link 
+10:49:14.798 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer First Name
+10:49:14.989 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Last Name
+10:49:15.156 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Gmail
+10:49:15.359 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Telephone Number
+10:49:15.546 [main] INFO  testCases.TC_001_AccountRegistrationPage - Set Password and Confirm Password
+10:49:15.846 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Privacy Policy
+10:49:15.946 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Continue Button
+10:49:18.977 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Login Information
+10:49:18.977 [main] INFO  testCases.TC_001_AccountRegistrationPage - Registration Test Passed
+10:49:22.671 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+10:49:27.270 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+10:49:28.209 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+11:06:53.787 [main] INFO  testCases.TC_001_AccountRegistrationPage - Starting TC_001_AccountRegistrationPage
+11:07:00.727 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicking on MyAccount under Register Link 
+11:07:08.426 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer First Name
+11:07:08.618 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Last Name
+11:07:08.782 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Gmail
+11:07:08.967 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Telephone Number
+11:07:09.120 [main] INFO  testCases.TC_001_AccountRegistrationPage - Set Password and Confirm Password
+11:07:09.433 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Privacy Policy
+11:07:09.527 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Continue Button
+11:07:12.748 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Login Information
+11:07:12.748 [main] INFO  testCases.TC_001_AccountRegistrationPage - Registration Test Passed
+11:07:20.033 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+11:07:25.953 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+11:07:29.217 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+11:15:35.649 [main] INFO  testCases.TC_001_AccountRegistrationPage - Starting TC_001_AccountRegistrationPage
+11:15:42.892 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicking on MyAccount under Register Link 
+11:15:45.501 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer First Name
+11:15:45.953 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Last Name
+11:15:46.201 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Gmail
+11:15:46.477 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Telephone Number
+11:15:46.625 [main] INFO  testCases.TC_001_AccountRegistrationPage - Set Password and Confirm Password
+11:15:46.928 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Privacy Policy
+11:15:47.024 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Continue Button
+11:15:53.850 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Login Information
+11:15:53.850 [main] INFO  testCases.TC_001_AccountRegistrationPage - Registration Test Passed
+11:16:02.760 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+11:16:09.683 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+11:16:10.037 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+12:06:25.110 [main] INFO  testCases.TC_001_AccountRegistrationPage - Starting TC_001_AccountRegistrationPage
+12:06:28.376 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicking on MyAccount under Register Link 
+12:06:30.558 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer First Name
+12:06:31.181 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Last Name
+12:06:31.337 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Gmail
+12:06:31.619 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Telephone Number
+12:06:31.762 [main] INFO  testCases.TC_001_AccountRegistrationPage - Set Password and Confirm Password
+12:06:32.130 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Privacy Policy
+12:06:32.222 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Continue Button
+12:06:36.355 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Login Information
+12:06:36.355 [main] INFO  testCases.TC_001_AccountRegistrationPage - Registration Test Passed
+12:06:42.008 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+12:06:46.591 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+12:06:47.496 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+12:06:49.584 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+12:06:49.833 [main] INFO  testCases.TC_002_Login - Provided Email 
+12:06:50.012 [main] INFO  testCases.TC_002_Login - Provided Password 
+12:06:51.424 [main] INFO  testCases.TC_002_Login - Clicked on Login
+12:06:51.521 [main] INFO  testCases.TC_002_Login - Login Success 
+12:06:51.522 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+12:12:44.234 [main] INFO  testCases.TC_001_AccountRegistrationPage - Starting TC_001_AccountRegistrationPage
+12:12:48.037 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicking on MyAccount under Register Link 
+12:12:49.935 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer First Name
+12:12:50.181 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Last Name
+12:12:50.358 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Gmail
+12:12:50.533 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Telephone Number
+12:12:50.686 [main] INFO  testCases.TC_001_AccountRegistrationPage - Set Password and Confirm Password
+12:12:51.004 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Privacy Policy
+12:12:51.114 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Continue Button
+12:12:54.052 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Login Information
+12:12:54.053 [main] INFO  testCases.TC_001_AccountRegistrationPage - Registration Test Passed
+12:12:58.917 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+12:13:04.390 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+12:13:05.113 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+12:13:05.775 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+12:13:06.056 [main] INFO  testCases.TC_002_Login - Provided Email 
+12:13:06.227 [main] INFO  testCases.TC_002_Login - Provided Password 
+12:13:06.982 [main] INFO  testCases.TC_002_Login - Clicked on Login
+12:13:07.060 [main] INFO  testCases.TC_002_Login - Login Success 
+12:13:07.060 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+13:44:59.174 [main] INFO  testCases.TC_001_AccountRegistrationPage - Starting TC_001_AccountRegistrationPage
+13:45:25.422 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicking on MyAccount under Register Link 
+13:45:32.339 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer First Name
+13:45:32.717 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Last Name
+13:45:33.023 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Gmail
+13:45:33.787 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Customer Telephone Number
+13:45:34.067 [main] INFO  testCases.TC_001_AccountRegistrationPage - Set Password and Confirm Password
+13:45:34.372 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Privacy Policy
+13:45:34.477 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked On Continue Button
+13:45:51.078 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Login Information
+13:45:51.079 [main] INFO  testCases.TC_001_AccountRegistrationPage - Registration Test Passed
+13:45:56.800 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+13:46:02.838 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+13:46:05.234 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+13:46:07.237 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+13:46:07.597 [main] INFO  testCases.TC_002_Login - Provided Email 
+13:46:07.757 [main] INFO  testCases.TC_002_Login - Provided Password 
+13:46:09.838 [main] INFO  testCases.TC_002_Login - Clicked on Login
+13:46:09.963 [main] INFO  testCases.TC_002_Login - Login Success 
+13:46:09.963 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+15:01:41.790 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+15:01:46.866 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+15:01:47.639 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+15:01:49.335 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+15:01:49.587 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+15:01:49.858 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+15:01:51.600 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+15:01:51.685 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+15:01:51.889 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+15:01:52.612 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+15:01:52.718 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+15:02:12.755 [main] FATAL testCases.TC_003_LoginDDT - Login Failed 
+15:02:12.769 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+15:02:14.522 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+15:02:14.640 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+15:02:34.715 [main] FATAL testCases.TC_003_LoginDDT - Login Failed 
+15:02:34.726 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+15:02:35.386 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+15:02:35.511 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+15:02:55.538 [main] FATAL testCases.TC_003_LoginDDT - Login Failed 
+20:50:28.634 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+20:50:48.936 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+20:50:51.856 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+20:50:53.713 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+20:50:54.017 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+20:50:54.181 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+20:50:57.385 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+20:50:57.467 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+20:50:57.524 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+20:50:58.581 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+20:50:58.700 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+20:51:18.740 [main] FATAL testCases.TC_003_LoginDDT - Login Failed 
+20:51:18.797 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+20:51:20.568 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+20:51:20.724 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+20:51:40.791 [main] FATAL testCases.TC_003_LoginDDT - Login Failed 
+20:51:40.796 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+20:51:44.526 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+20:51:44.652 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+20:52:04.694 [main] FATAL testCases.TC_003_LoginDDT - Login Failed 
+21:34:16.859 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+21:34:22.165 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+21:34:25.273 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+21:34:26.703 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+21:34:26.931 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+21:34:27.123 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+21:34:28.492 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+21:34:28.581 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+21:34:28.622 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+21:34:29.575 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+21:34:29.687 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+21:49:04.460 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+21:49:06.822 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+21:49:07.683 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+21:49:08.702 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+21:49:08.966 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+21:49:09.156 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+21:49:10.578 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+21:49:10.675 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+21:49:10.729 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+21:49:11.696 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+21:49:11.843 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+21:49:32.592 [main] FATAL testCases.TC_003_LoginDDT - Login Failed 
+21:49:32.608 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+21:49:33.232 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+21:49:33.349 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+21:49:53.422 [main] FATAL testCases.TC_003_LoginDDT - Login Failed 
+21:49:53.427 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+21:49:54.800 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+21:49:54.912 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+21:50:14.996 [main] FATAL testCases.TC_003_LoginDDT - Login Failed 
+22:23:20.393 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+22:23:26.287 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+22:23:27.638 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+22:23:28.821 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+22:23:29.090 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+22:23:29.292 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+22:23:30.588 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+22:23:30.671 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+22:23:30.785 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+22:23:31.814 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+22:23:31.927 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+22:23:51.974 [main] FATAL testCases.TC_003_LoginDDT - Login Failed 
+22:23:51.990 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+22:23:53.023 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
