@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-30T17:11:11 IST" name="opencart" finished-at="2022-07-30T17:14:23 IST" duration-ms="191792">
+    <groups>
+      <group name="ddt">
+        <method signature="TC_003_LoginDDT.test_LoginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003_LoginDDT@3527942a]" name="test_LoginDDT" class="testCases.TC_003_LoginDDT"/>
+      </group> <!-- ddt -->
+      <group name="regression">
+        <method signature="TC_001_AccountRegistrationPage.test_Account_Registration()[pri:0, instance:testCases.TC_001_AccountRegistrationPage@52b1beb6]" name="test_Account_Registration" class="testCases.TC_001_AccountRegistrationPage"/>
+      </group> <!-- regression -->
+      <group name="sanity">
+        <method signature="TC_002_Login.test_Login()[pri:0, instance:testCases.TC_002_Login@3f6f6701]" name="test_Login" class="testCases.TC_002_Login"/>
+      </group> <!-- sanity -->
+      <group name="master">
+        <method signature="TC_001_AccountRegistrationPage.test_Account_Registration()[pri:0, instance:testCases.TC_001_AccountRegistrationPage@52b1beb6]" name="test_Account_Registration" class="testCases.TC_001_AccountRegistrationPage"/>
+        <method signature="TC_002_Login.test_Login()[pri:0, instance:testCases.TC_002_Login@3f6f6701]" name="test_Login" class="testCases.TC_002_Login"/>
+      </group> <!-- master -->
+    </groups>
+    <test started-at="2022-07-30T17:11:11 IST" name="Test" finished-at="2022-07-30T17:14:23 IST" duration-ms="191792">
+      <class name="testCases.TC_006_AddToCart">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_006_AddToCart@5a45133e]" started-at="2022-07-30T17:14:03 IST" name="setup" finished-at="2022-07-30T17:14:06 IST" duration-ms="3233" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_AddToCart()[pri:0, instance:testCases.TC_006_AddToCart@5a45133e]" started-at="2022-07-30T17:14:06 IST" name="test_AddToCart" finished-at="2022-07-30T17:14:23 IST" duration-ms="16395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_AddToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_006_AddToCart@5a45133e]" started-at="2022-07-30T17:14:23 IST" name="tearDown" finished-at="2022-07-30T17:14:23 IST" duration-ms="671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_006_AddToCart -->
+      <class name="testCases.TC_001_AccountRegistrationPage">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_001_AccountRegistrationPage@52b1beb6]" started-at="2022-07-30T17:11:12 IST" name="setup" finished-at="2022-07-30T17:11:21 IST" duration-ms="8550" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_Account_Registration()[pri:0, instance:testCases.TC_001_AccountRegistrationPage@52b1beb6]" started-at="2022-07-30T17:11:21 IST" name="test_Account_Registration" finished-at="2022-07-30T17:11:59 IST" duration-ms="38469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Account_Registration -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_001_AccountRegistrationPage@52b1beb6]" started-at="2022-07-30T17:11:59 IST" name="tearDown" finished-at="2022-07-30T17:11:59 IST" duration-ms="358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_001_AccountRegistrationPage -->
+      <class name="testCases.TC_002_Login">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_002_Login@3f6f6701]" started-at="2022-07-30T17:11:59 IST" name="setup" finished-at="2022-07-30T17:12:02 IST" duration-ms="3049" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_Login()[pri:0, instance:testCases.TC_002_Login@3f6f6701]" started-at="2022-07-30T17:12:02 IST" name="test_Login" finished-at="2022-07-30T17:12:12 IST" duration-ms="9425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_002_Login@3f6f6701]" started-at="2022-07-30T17:12:12 IST" name="tearDown" finished-at="2022-07-30T17:12:12 IST" duration-ms="310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_002_Login -->
+      <class name="testCases.TC_004_Search">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_004_Search@942a29c]" started-at="2022-07-30T17:13:09 IST" name="setup" finished-at="2022-07-30T17:13:13 IST" duration-ms="3924" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_search()[pri:0, instance:testCases.TC_004_Search@942a29c]" started-at="2022-07-30T17:13:13 IST" name="test_search" finished-at="2022-07-30T17:13:34 IST" duration-ms="21143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_search -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_004_Search@942a29c]" started-at="2022-07-30T17:13:34 IST" name="tearDown" finished-at="2022-07-30T17:13:34 IST" duration-ms="304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_004_Search -->
+      <class name="testCases.TC_005_Forgot_Password">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_005_Forgot_Password@1ed6388a]" started-at="2022-07-30T17:13:34 IST" name="setup" finished-at="2022-07-30T17:13:37 IST" duration-ms="2565" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_Forgot_Password()[pri:0, instance:testCases.TC_005_Forgot_Password@1ed6388a]" started-at="2022-07-30T17:13:37 IST" name="test_Forgot_Password" finished-at="2022-07-30T17:14:01 IST" duration-ms="24779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Forgot_Password -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_005_Forgot_Password@1ed6388a]" started-at="2022-07-30T17:14:01 IST" name="tearDown" finished-at="2022-07-30T17:14:03 IST" duration-ms="1568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_005_Forgot_Password -->
+      <class name="testCases.TC_003_LoginDDT">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_003_LoginDDT@3527942a]" started-at="2022-07-30T17:12:12 IST" name="setup" finished-at="2022-07-30T17:12:16 IST" duration-ms="3313" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_LoginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003_LoginDDT@3527942a]" started-at="2022-07-30T17:12:18 IST" name="test_LoginDDT" data-provider="LoginData" finished-at="2022-07-30T17:12:27 IST" duration-ms="9844" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[onkarpatil1234@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Onkar@1234]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_LoginDDT -->
+        <test-method signature="test_LoginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003_LoginDDT@3527942a]" started-at="2022-07-30T17:12:27 IST" name="test_LoginDDT" data-provider="LoginData" finished-at="2022-07-30T17:12:41 IST" duration-ms="13835" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[onkarpatil1234@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Onkar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_LoginDDT -->
+        <test-method signature="test_LoginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003_LoginDDT@3527942a]" started-at="2022-07-30T17:12:41 IST" name="test_LoginDDT" data-provider="LoginData" finished-at="2022-07-30T17:12:55 IST" duration-ms="13324" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[onkarpatil@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Onkar@1234]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_LoginDDT -->
+        <test-method signature="test_LoginDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003_LoginDDT@3527942a]" started-at="2022-07-30T17:12:55 IST" name="test_LoginDDT" data-provider="LoginData" finished-at="2022-07-30T17:13:08 IST" duration-ms="13713" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[onkarpatil@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Onkar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_LoginDDT -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_003_LoginDDT@3527942a]" started-at="2022-07-30T17:13:08 IST" name="tearDown" finished-at="2022-07-30T17:13:09 IST" duration-ms="380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_003_LoginDDT -->
+    </test> <!-- Test -->
+  </suite> <!-- opencart -->
+</testng-results>
