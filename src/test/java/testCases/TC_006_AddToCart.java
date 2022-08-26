@@ -13,7 +13,11 @@ public class TC_006_AddToCart extends BaseClass
 {
 	public void  test_AddToCart() throws InterruptedException
 	{
+<<<<<<< HEAD
 	 logger.info("Starting TC_006_Addcart");
+=======
+	 logger.info("Starting TC_006_AddToCart");
+>>>>>>> 9aa5b90 (All TestCases Are Added To The GitHub)
 	 try
 	 {
 	 driver.get(rb.getString("appURL"));

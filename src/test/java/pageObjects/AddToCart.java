@@ -21,7 +21,13 @@ public class AddToCart {
 	@FindBy(xpath="//i[@class='fa fa-search']")
 	WebElement searchbutton;
 	
+<<<<<<< HEAD
 	@FindBy(xpath="//span[normalize-space()='Add to Cart']")
+=======
+	
+	
+	@FindBy(xpath="//span[normalize-space()='Add to Cart']")            
+>>>>>>> 9aa5b90 (All TestCases Are Added To The GitHub)
 	WebElement addcart;
 	
 	

@@ -1,0 +1,594 @@
+10:05:21.112 [main] INFO  testCases.TC_002_Login - Provided Password 
+10:05:23.513 [main] INFO  testCases.TC_002_Login - Clicked on Login
+10:05:23.653 [main] INFO  testCases.TC_002_Login - Login Success 
+10:05:23.653 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+10:05:29.398 [main] INFO  testCases.TC_003_LoginDDT - Launched chrome Browser
+10:05:37.657 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+10:05:39.441 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+10:05:40.773 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+10:05:41.875 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+10:05:42.077 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+10:05:42.229 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+10:05:43.163 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+10:05:43.259 [main] INFO  testCases.TC_003_LoginDDT - Login Success 
+10:05:46.530 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+10:05:46.532 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+10:05:48.089 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+10:05:48.276 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+10:05:49.082 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+10:05:49.360 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+10:05:49.475 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+10:05:50.187 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+10:06:00.636 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+10:06:00.636 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+10:06:00.638 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+10:06:01.526 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+10:06:01.696 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+10:06:02.708 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+10:06:03.013 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+10:06:03.414 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+10:06:05.146 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+10:06:15.211 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+10:06:15.211 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+10:06:15.213 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+10:06:15.980 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+10:06:16.131 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+10:06:16.909 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+10:06:17.124 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+10:06:17.303 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+10:06:19.176 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+10:06:29.208 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+10:06:29.209 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+10:06:35.843 [main] INFO  testCases.TC_004_Search - Launched chrome Browser
+10:06:35.848 [main] INFO  testCases.TC_004_Search -  Starting TC_004_Search 
+10:06:42.789 [main] INFO  testCases.TC_004_Search - Home Page Displayed 
+10:06:45.101 [main] INFO  testCases.TC_004_Search - Enter any Product
+10:06:59.822 [main] ERROR testCases.TC_004_Search - Search Success 
+10:07:00.596 [main] INFO  testCases.TC_004_Search -  Finished TC_004Search 
+10:07:09.669 [main] INFO  testCases.TC_005_Forgot_Password - Launched chrome Browser
+10:07:09.675 [main] INFO  testCases.TC_005_Forgot_Password - Starting TC_005_ForgotPassword
+10:07:17.891 [main] INFO  testCases.TC_005_Forgot_Password - Home Page Displayed 
+10:07:23.249 [main] INFO  testCases.TC_005_Forgot_Password - Clicked on My Account 
+10:07:24.937 [main] INFO  testCases.TC_005_Forgot_Password - Clicked on Login 
+10:07:27.277 [main] INFO  testCases.TC_005_Forgot_Password - Provided Email 
+10:07:35.093 [main] INFO  testCases.TC_005_Forgot_Password - Provided confirmation email
+10:07:40.525 [main] INFO  testCases.TC_005_Forgot_Password - Finished TC_009_ForgotPassword
+10:07:50.353 [main] INFO  testCases.TC_006_AddToCart - Launched chrome Browser
+10:07:50.357 [main] INFO  testCases.TC_006_AddToCart - Starting TC_006_Addcart
+10:07:56.266 [main] INFO  testCases.TC_006_AddToCart - Home Page Displayed 
+10:07:59.652 [main] INFO  testCases.TC_006_AddToCart - Enter any Product
+10:08:04.484 [main] INFO  testCases.TC_006_AddToCart - product displayed on HomePage
+10:08:04.586 [main] INFO  testCases.TC_006_AddToCart - product added to cart
+10:08:07.139 [main] INFO  testCases.TC_006_AddToCart - Search page is Success 
+10:08:07.140 [main] INFO  testCases.TC_006_AddToCart - Finished TC_006_AddToCart
+10:19:00.026 [main] INFO  testCases.TC_001_AccountRegistrationPage - Launched chrome Browser
+10:19:00.148 [main] INFO  testCases.TC_001_AccountRegistrationPage - Strating TC_001_AccountRegistration
+10:19:05.580 [main] INFO  testCases.TC_001_AccountRegistrationPage - Home Page Displayed 
+10:19:07.220 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on My Account 
+10:19:09.318 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on Register 
+10:19:09.800 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided First Name 
+10:19:09.959 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Last Name 
+10:19:10.171 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Email 
+10:19:10.338 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Telephone 
+10:19:10.557 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Password 
+10:19:10.705 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Confrmed Password 
+10:19:10.824 [main] INFO  testCases.TC_001_AccountRegistrationPage - Set Privacy Policy 
+10:19:15.185 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on Continue 
+10:19:20.289 [main] INFO  testCases.TC_001_AccountRegistrationPage - Account Registration Success 
+10:19:20.322 [main] INFO  testCases.TC_001_AccountRegistrationPage - Finished TC_001_AccountRegistration
+10:19:26.838 [main] INFO  testCases.TC_002_Login - Launched chrome Browser
+10:19:26.853 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+10:19:34.022 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+10:19:37.565 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+10:19:38.841 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+10:19:39.125 [main] INFO  testCases.TC_002_Login - Provided Email 
+10:19:39.282 [main] INFO  testCases.TC_002_Login - Provided Password 
+10:19:40.794 [main] INFO  testCases.TC_002_Login - Clicked on Login
+10:19:40.978 [main] INFO  testCases.TC_002_Login - Login Success 
+10:19:40.979 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+10:19:44.702 [main] INFO  testCases.TC_003_LoginDDT - Launched chrome Browser
+10:19:50.878 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+10:19:52.369 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+10:19:53.759 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+10:19:55.358 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+10:19:55.606 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+10:19:55.769 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+10:19:57.246 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+10:19:57.320 [main] INFO  testCases.TC_003_LoginDDT - Login Success 
+10:19:58.509 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+10:19:58.510 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+10:19:59.284 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+10:19:59.464 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+10:20:00.935 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+10:20:01.189 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+10:20:01.316 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+10:20:02.064 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+10:20:12.153 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+10:20:12.153 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+10:20:12.154 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+10:20:13.008 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+10:20:13.157 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+10:20:13.914 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+10:20:14.174 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+10:20:14.334 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+10:20:15.172 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+10:20:25.252 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+10:20:25.252 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+10:20:25.256 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+10:20:26.258 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+10:20:26.376 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+10:20:27.475 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+10:20:27.778 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+10:20:27.913 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+10:20:28.626 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+10:20:38.700 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+10:20:38.700 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+10:20:50.655 [main] INFO  testCases.TC_004_Search - Launched chrome Browser
+10:20:50.666 [main] INFO  testCases.TC_004_Search -  Starting TC_004_Search 
+10:20:59.270 [main] INFO  testCases.TC_004_Search - Home Page Displayed 
+10:21:01.610 [main] INFO  testCases.TC_004_Search - Enter any Product
+10:21:15.081 [main] ERROR testCases.TC_004_Search - Search Success 
+10:21:15.461 [main] INFO  testCases.TC_004_Search -  Finished TC_004Search 
+10:21:19.094 [main] INFO  testCases.TC_005_Forgot_Password - Launched chrome Browser
+10:21:19.101 [main] INFO  testCases.TC_005_Forgot_Password - Starting TC_005_ForgotPassword
+10:21:24.487 [main] INFO  testCases.TC_005_Forgot_Password - Home Page Displayed 
+10:21:24.775 [main] INFO  testCases.TC_005_Forgot_Password - Clicked on My Account 
+10:21:25.565 [main] INFO  testCases.TC_005_Forgot_Password - Clicked on Login 
+10:21:27.921 [main] INFO  testCases.TC_005_Forgot_Password - Provided Email 
+10:21:35.370 [main] INFO  testCases.TC_005_Forgot_Password - Provided confirmation email
+10:21:40.768 [main] INFO  testCases.TC_005_Forgot_Password - Finished TC_009_ForgotPassword
+10:21:47.983 [main] INFO  testCases.TC_006_AddToCart - Launched chrome Browser
+10:21:47.991 [main] INFO  testCases.TC_006_AddToCart - Starting TC_006_Addcart
+10:21:53.126 [main] INFO  testCases.TC_006_AddToCart - Home Page Displayed 
+10:21:56.689 [main] INFO  testCases.TC_006_AddToCart - Enter any Product
+10:22:01.690 [main] INFO  testCases.TC_006_AddToCart - product displayed on HomePage
+10:22:01.785 [main] INFO  testCases.TC_006_AddToCart - product added to cart
+10:22:03.912 [main] INFO  testCases.TC_006_AddToCart - Search page is Success 
+10:22:03.913 [main] INFO  testCases.TC_006_AddToCart - Finished TC_006_AddToCart
+09:24:15.433 [main] INFO  testCases.TC_001_AccountRegistrationPage - Launched chrome Browser
+09:24:15.699 [main] INFO  testCases.TC_001_AccountRegistrationPage - Strating TC_001_AccountRegistration
+09:24:37.056 [main] INFO  testCases.TC_001_AccountRegistrationPage - Home Page Displayed 
+09:24:38.404 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on My Account 
+09:24:41.196 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on Register 
+09:24:41.691 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided First Name 
+09:24:41.839 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Last Name 
+09:24:42.017 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Email 
+09:24:42.186 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Telephone 
+09:24:42.400 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Password 
+09:24:42.589 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Confrmed Password 
+09:24:42.698 [main] INFO  testCases.TC_001_AccountRegistrationPage - Set Privacy Policy 
+09:24:51.247 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on Continue 
+09:24:56.380 [main] INFO  testCases.TC_001_AccountRegistrationPage - Account Registration Success 
+09:24:56.387 [main] INFO  testCases.TC_001_AccountRegistrationPage - Finished TC_001_AccountRegistration
+09:25:01.481 [main] INFO  testCases.TC_002_Login - Launched chrome Browser
+09:25:01.503 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+09:25:11.165 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+09:25:14.234 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+09:25:16.065 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+09:25:16.368 [main] INFO  testCases.TC_002_Login - Provided Email 
+09:25:16.518 [main] INFO  testCases.TC_002_Login - Provided Password 
+09:25:19.399 [main] INFO  testCases.TC_002_Login - Clicked on Login
+09:25:19.574 [main] INFO  testCases.TC_002_Login - Login Success 
+09:25:19.574 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+09:25:23.772 [main] INFO  testCases.TC_003_LoginDDT - Launched chrome Browser
+09:25:31.746 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+09:25:34.802 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+09:25:36.827 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+09:25:37.777 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+09:25:38.045 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+09:25:38.221 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+09:25:39.411 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+09:25:39.496 [main] INFO  testCases.TC_003_LoginDDT - Login Success 
+09:25:41.220 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+09:25:41.222 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+09:25:42.019 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+09:25:42.160 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+09:25:44.446 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+09:25:44.686 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+09:25:44.809 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+09:25:46.046 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+09:25:56.496 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+09:25:56.497 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+09:25:56.498 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+09:25:57.436 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+09:25:57.629 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+09:25:58.386 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+09:25:58.644 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+09:25:58.813 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+09:25:59.628 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+09:26:09.659 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+09:26:09.659 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+09:26:09.661 [main] INFO  testCases.TC_003_LoginDDT -  Starting TC_003_LoginDDT 
+09:26:10.435 [main] INFO  testCases.TC_003_LoginDDT - Home Page Displayed 
+09:26:10.571 [main] INFO  testCases.TC_003_LoginDDT - Clicked on My Account 
+09:26:11.337 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login 
+09:26:11.563 [main] INFO  testCases.TC_003_LoginDDT - Provided Email 
+09:26:11.684 [main] INFO  testCases.TC_003_LoginDDT - Provided Password 
+09:26:12.388 [main] INFO  testCases.TC_003_LoginDDT - Clicked on Login
+09:26:22.453 [main] ERROR testCases.TC_003_LoginDDT - Login Failed 
+09:26:22.453 [main] INFO  testCases.TC_003_LoginDDT -  Finished TC_003_LoginDDT 
+09:26:29.320 [main] INFO  testCases.TC_004_Search - Launched chrome Browser
+09:26:29.330 [main] INFO  testCases.TC_004_Search -  Starting TC_004_Search 
+09:26:35.895 [main] INFO  testCases.TC_004_Search - Home Page Displayed 
+09:26:38.212 [main] INFO  testCases.TC_004_Search - Enter any Product
+09:26:52.396 [main] ERROR testCases.TC_004_Search - Search Success 
+09:26:52.767 [main] INFO  testCases.TC_004_Search -  Finished TC_004Search 
+09:26:57.880 [main] INFO  testCases.TC_005_Forgot_Password - Launched chrome Browser
+09:26:57.910 [main] INFO  testCases.TC_005_Forgot_Password - Starting TC_005_ForgotPassword
+09:27:05.048 [main] INFO  testCases.TC_005_Forgot_Password - Home Page Displayed 
+09:27:07.693 [main] INFO  testCases.TC_005_Forgot_Password - Clicked on My Account 
+09:27:09.445 [main] INFO  testCases.TC_005_Forgot_Password - Clicked on Login 
+09:27:11.723 [main] INFO  testCases.TC_005_Forgot_Password - Provided Email 
+09:27:20.388 [main] INFO  testCases.TC_005_Forgot_Password - Provided confirmation email
+09:27:27.251 [main] INFO  testCases.TC_005_Forgot_Password - Finished TC_009_ForgotPassword
+09:27:37.791 [main] INFO  testCases.TC_006_AddToCart - Launched chrome Browser
+09:27:37.798 [main] INFO  testCases.TC_006_AddToCart - Starting TC_006_Addcart
+09:27:44.438 [main] INFO  testCases.TC_006_AddToCart - Home Page Displayed 
+09:27:48.460 [main] INFO  testCases.TC_006_AddToCart - Enter any Product
+09:27:55.376 [main] INFO  testCases.TC_006_AddToCart - product displayed on HomePage
+09:27:55.567 [main] INFO  testCases.TC_006_AddToCart - product added to cart
+09:27:59.478 [main] INFO  testCases.TC_006_AddToCart - Search page is Success 
+09:27:59.478 [main] INFO  testCases.TC_006_AddToCart - Finished TC_006_AddToCart
+20:26:34.278 [main] INFO  testCases.TC_006_AddToCart - Launched chrome Browser
+20:26:34.456 [main] INFO  testCases.TC_006_AddToCart - Starting TC_006_Addcart
+20:26:44.838 [main] INFO  testCases.TC_006_AddToCart - Home Page Displayed 
+20:26:48.305 [main] INFO  testCases.TC_006_AddToCart - Enter any Product
+20:26:52.865 [main] INFO  testCases.TC_006_AddToCart - product displayed on HomePage
+20:26:52.991 [main] INFO  testCases.TC_006_AddToCart - product added to cart
+20:26:55.282 [main] INFO  testCases.TC_006_AddToCart - Search page is Success 
+20:26:55.286 [main] INFO  testCases.TC_006_AddToCart - Finished TC_006_AddToCart
+20:30:30.060 [main] INFO  testCases.TC_006_AddToCart - Launched chrome Browser
+20:30:30.112 [main] INFO  testCases.TC_006_AddToCart - Starting TC_006_Addcart
+20:30:36.003 [main] INFO  testCases.TC_006_AddToCart - Home Page Displayed 
+20:30:39.314 [main] INFO  testCases.TC_006_AddToCart - Enter any Product
+20:30:43.907 [main] INFO  testCases.TC_006_AddToCart - product displayed on HomePage
+20:30:44.003 [main] INFO  testCases.TC_006_AddToCart - product added to cart
+20:30:46.066 [main] INFO  testCases.TC_006_AddToCart - Search page is Success 
+20:30:46.069 [main] INFO  testCases.TC_006_AddToCart - Finished TC_006_AddToCart
+20:33:13.292 [main] INFO  testCases.TC_006_AddToCart - Launched chrome Browser
+20:33:13.346 [main] INFO  testCases.TC_006_AddToCart - Starting TC_006_Addcart
+20:33:17.428 [main] INFO  testCases.TC_006_AddToCart - Home Page Displayed 
+20:33:20.846 [main] INFO  testCases.TC_006_AddToCart - Enter any Product
+20:33:25.631 [main] INFO  testCases.TC_006_AddToCart - product displayed on HomePage
+20:33:25.754 [main] INFO  testCases.TC_006_AddToCart - product added to cart
+20:33:27.835 [main] INFO  testCases.TC_006_AddToCart - Search page is Success 
+20:33:27.840 [main] INFO  testCases.TC_006_AddToCart - Finished TC_006_AddToCart
+21:08:09.787 [main] INFO  testCases.TC_006_AddToCart - Launched chrome Browser
+21:08:09.876 [main] INFO  testCases.TC_006_AddToCart - Starting TC_006_Addcart
+21:08:20.515 [main] INFO  testCases.TC_006_AddToCart - Home Page Displayed 
+21:08:24.041 [main] INFO  testCases.TC_006_AddToCart - Enter any Product
+21:08:29.386 [main] INFO  testCases.TC_006_AddToCart - product displayed on HomePage
+21:08:29.496 [main] INFO  testCases.TC_006_AddToCart - product added to cart
+21:08:31.721 [main] INFO  testCases.TC_006_AddToCart - Search page is Success 
+21:08:31.726 [main] INFO  testCases.TC_006_AddToCart - Finished TC_006_AddToCart
+21:15:06.472 [main] INFO  testCases.TC_006_AddToCart - Launched chrome Browser
+21:15:06.519 [main] INFO  testCases.TC_006_AddToCart - Starting TC_006_Addcart
+21:15:09.933 [main] INFO  testCases.TC_006_AddToCart - Home Page Displayed 
+21:15:13.375 [main] INFO  testCases.TC_006_AddToCart - Enter any Product
+21:15:18.291 [main] INFO  testCases.TC_006_AddToCart - product displayed on HomePage
+21:15:18.388 [main] INFO  testCases.TC_006_AddToCart - product added to cart
+21:15:20.489 [main] INFO  testCases.TC_006_AddToCart - Search page is Success 
+21:15:20.496 [main] INFO  testCases.TC_006_AddToCart - Finished TC_006_AddToCart
+21:17:22.797 [main] INFO  testCases.TC_006_AddToCart - Launched chrome Browser
+21:17:22.843 [main] INFO  testCases.TC_006_AddToCart - Starting TC_006_Addcart
+21:17:26.185 [main] INFO  testCases.TC_006_AddToCart - Home Page Displayed 
+21:17:29.633 [main] INFO  testCases.TC_006_AddToCart - Enter any Product
+21:17:33.932 [main] INFO  testCases.TC_006_AddToCart - product displayed on HomePage
+21:17:34.039 [main] INFO  testCases.TC_006_AddToCart - product added to cart
+21:17:36.101 [main] INFO  testCases.TC_006_AddToCart - Search page is Success 
+21:17:36.105 [main] INFO  testCases.TC_006_AddToCart - Finished TC_006_AddToCart
+09:50:19.527 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Launched chrome Browser
+09:50:19.638 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Strating TC_001_AccountRegistration
+09:50:28.468 [TestNG-tests-1] FATAL testCases.TC_001_AccountRegistrationPage - Account Registration Failed
+09:50:48.368 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationPage - Launched Edge Browser
+09:50:48.421 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationPage - Strating TC_001_AccountRegistration
+09:51:11.001 [TestNG-tests-2] FATAL testCases.TC_001_AccountRegistrationPage - Account Registration Failed
+09:53:20.847 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Launched chrome Browser
+09:53:21.102 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationPage - Launched Edge Browser
+09:53:21.232 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationPage - Strating TC_001_AccountRegistration
+09:53:21.232 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Strating TC_001_AccountRegistration
+09:53:53.150 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationPage - Launched firefox Browser
+09:53:53.564 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationPage - Strating TC_001_AccountRegistration
+09:54:14.667 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationPage - Home Page Displayed 
+09:54:17.543 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Home Page Displayed 
+09:54:18.131 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationPage - Home Page Displayed 
+09:54:20.118 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on My Account 
+09:54:20.137 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on My Account 
+09:54:23.765 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on My Account 
+09:54:29.041 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on Register 
+09:54:29.831 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on Register 
+09:54:29.898 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on Register 
+09:54:30.697 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Provided First Name 
+09:54:30.996 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationPage - Provided First Name 
+09:54:31.211 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Provided Last Name 
+09:54:31.666 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationPage - Provided Last Name 
+09:54:31.966 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Provided Email 
+09:54:32.519 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationPage - Provided Email 
+09:54:32.688 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Provided Telephone 
+09:54:32.971 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationPage - Provided Telephone 
+09:54:33.134 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Provided Password 
+09:54:33.495 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Provided Confrmed Password 
+09:54:33.987 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Set Privacy Policy 
+09:54:34.145 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationPage - Provided Password 
+09:54:34.821 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationPage - Provided Confrmed Password 
+09:54:35.095 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationPage - Set Privacy Policy 
+09:54:38.032 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationPage - Provided First Name 
+09:54:38.258 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationPage - Provided Last Name 
+09:54:38.371 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationPage - Provided Email 
+09:54:38.447 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationPage - Provided Telephone 
+09:54:38.576 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationPage - Provided Password 
+09:54:38.669 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationPage - Provided Confrmed Password 
+09:54:39.540 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationPage - Set Privacy Policy 
+09:54:45.726 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on Continue 
+09:54:46.061 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on Continue 
+09:54:47.539 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on Continue 
+09:54:51.085 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Account Registration Success 
+09:54:51.091 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationPage - Finished TC_001_AccountRegistration
+09:54:51.287 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationPage - Account Registration Success 
+09:54:51.287 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationPage - Finished TC_001_AccountRegistration
+09:54:52.669 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationPage - Account Registration Success 
+09:54:52.670 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationPage - Finished TC_001_AccountRegistration
+09:57:20.436 [main] INFO  testCases.TC_006_AddToCart - Launched chrome Browser
+09:57:20.559 [main] INFO  testCases.TC_006_AddToCart - Starting TC_006_Addcart
+09:57:26.115 [main] INFO  testCases.TC_006_AddToCart - Home Page Displayed 
+09:57:30.138 [main] INFO  testCases.TC_006_AddToCart - Enter any Product
+09:57:35.711 [main] INFO  testCases.TC_006_AddToCart - product displayed on HomePage
+09:57:36.191 [main] INFO  testCases.TC_006_AddToCart - product added to cart
+09:57:38.700 [main] INFO  testCases.TC_006_AddToCart - Search page is Success 
+09:57:38.707 [main] INFO  testCases.TC_006_AddToCart - Finished TC_006_AddToCart
+10:16:46.487 [main] INFO  testCases.TC_001_AccountRegistrationPage - Launched chrome Browser
+10:16:46.569 [main] INFO  testCases.TC_001_AccountRegistrationPage - Strating TC_001_AccountRegistration
+10:16:49.564 [main] INFO  testCases.TC_001_AccountRegistrationPage - Home Page Displayed 
+10:16:50.068 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on My Account 
+10:16:50.924 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on Register 
+10:16:51.136 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided First Name 
+10:16:51.390 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Last Name 
+10:16:51.551 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Email 
+10:16:51.692 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Telephone 
+10:16:51.832 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Password 
+10:16:51.971 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Confrmed Password 
+10:16:52.061 [main] INFO  testCases.TC_001_AccountRegistrationPage - Set Privacy Policy 
+10:16:57.986 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on Continue 
+10:17:03.054 [main] INFO  testCases.TC_001_AccountRegistrationPage - Account Registration Success 
+10:17:03.058 [main] INFO  testCases.TC_001_AccountRegistrationPage - Finished TC_001_AccountRegistration
+10:24:14.770 [main] INFO  testCases.TC_006_AddToCart - Launched chrome Browser
+10:24:14.813 [main] INFO  testCases.TC_006_AddToCart - Starting TC_006_Addcart
+10:24:20.912 [main] INFO  testCases.TC_006_AddToCart - Home Page Displayed 
+10:24:24.283 [main] INFO  testCases.TC_006_AddToCart - Enter any Product
+10:24:29.329 [main] INFO  testCases.TC_006_AddToCart - product displayed on HomePage
+10:24:29.426 [main] INFO  testCases.TC_006_AddToCart - product added to cart
+10:24:31.502 [main] INFO  testCases.TC_006_AddToCart - Search page is Success 
+10:24:31.506 [main] INFO  testCases.TC_006_AddToCart - Finished TC_006_AddToCart
+10:35:00.777 [main] INFO  testCases.TC_002_Login - Launched chrome Browser
+10:35:00.858 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+10:35:06.360 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+10:35:08.034 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+10:35:13.470 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+10:35:13.862 [main] INFO  testCases.TC_002_Login - Provided Email 
+10:35:14.011 [main] INFO  testCases.TC_002_Login - Provided Password 
+10:35:16.953 [main] INFO  testCases.TC_002_Login - Clicked on Login
+10:35:17.519 [main] INFO  testCases.TC_002_Login - Login Success 
+10:35:17.522 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+10:35:22.347 [main] INFO  testCases.TC_006_AddToCart - Launched chrome Browser
+10:35:22.356 [main] INFO  testCases.TC_006_AddToCart - Starting TC_006_Addcart
+10:35:28.112 [main] INFO  testCases.TC_006_AddToCart - Home Page Displayed 
+10:35:31.550 [main] INFO  testCases.TC_006_AddToCart - Enter any Product
+10:35:37.125 [main] INFO  testCases.TC_006_AddToCart - product displayed on HomePage
+10:35:37.224 [main] INFO  testCases.TC_006_AddToCart - product added to cart
+10:35:39.404 [main] INFO  testCases.TC_006_AddToCart - Search page is Success 
+10:35:39.404 [main] INFO  testCases.TC_006_AddToCart - Finished TC_006_AddToCart
+10:41:13.617 [main] INFO  testCases.TC_002_Login - Launched chrome Browser
+10:41:13.683 [main] INFO  testCases.TC_002_Login -  Starting TC_002_Login 
+10:41:19.325 [main] INFO  testCases.TC_002_Login - Home Page Displayed 
+10:41:19.850 [main] INFO  testCases.TC_002_Login - Clicked on My Account 
+10:41:20.644 [main] INFO  testCases.TC_002_Login - Clicked on Login 
+10:41:20.882 [main] INFO  testCases.TC_002_Login - Provided Email 
+10:41:21.053 [main] INFO  testCases.TC_002_Login - Provided Password 
+10:41:22.198 [main] INFO  testCases.TC_002_Login - Clicked on Login
+10:41:22.270 [main] INFO  testCases.TC_002_Login - Login Success 
+10:41:22.273 [main] INFO  testCases.TC_002_Login -  Finished TC_002_Login 
+10:41:27.496 [main] INFO  testCases.TC_007_CompareProduct - Launched chrome Browser
+10:41:27.509 [main] INFO  testCases.TC_007_CompareProduct - Strating TC_007_ProductCompare
+10:41:35.126 [main] INFO  testCases.TC_007_CompareProduct - Home Page Displayed 
+10:41:38.439 [main] INFO  testCases.TC_007_CompareProduct - Enter any Product
+10:41:43.444 [main] INFO  testCases.TC_007_CompareProduct - product displayed on HomePage
+10:41:46.578 [main] INFO  testCases.TC_007_CompareProduct - products comparing
+10:42:33.600 [main] INFO  testCases.TC_007_CompareProduct - Launched chrome Browser
+10:42:33.655 [main] INFO  testCases.TC_007_CompareProduct - Strating TC_007_ProductCompare
+10:42:39.863 [main] INFO  testCases.TC_007_CompareProduct - Home Page Displayed 
+10:42:43.258 [main] INFO  testCases.TC_007_CompareProduct - Enter any Product
+10:42:47.883 [main] INFO  testCases.TC_007_CompareProduct - product displayed on HomePage
+10:42:51.001 [main] INFO  testCases.TC_007_CompareProduct - products comparing
+21:20:02.286 [main] INFO  testCases.TC_001_AccountRegistrationPage - Launched chrome Browser
+21:20:02.364 [main] INFO  testCases.TC_001_AccountRegistrationPage - Strating TC_001_AccountRegistration
+21:20:08.463 [main] INFO  testCases.TC_001_AccountRegistrationPage - Home Page Displayed 
+21:20:09.610 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on My Account 
+21:20:14.551 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on Register 
+21:20:15.855 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided First Name 
+21:20:16.014 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Last Name 
+21:20:16.257 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Email 
+21:20:16.428 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Telephone 
+21:20:16.656 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Password 
+21:20:16.851 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Confrmed Password 
+21:20:16.955 [main] INFO  testCases.TC_001_AccountRegistrationPage - Set Privacy Policy 
+21:20:22.700 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on Continue 
+21:20:27.887 [main] INFO  testCases.TC_001_AccountRegistrationPage - Account Registration Success 
+21:20:27.891 [main] INFO  testCases.TC_001_AccountRegistrationPage - Finished TC_001_AccountRegistration
+21:20:32.891 [main] INFO  testCases.TC_008_ProductDisplayPage - Launched chrome Browser
+21:20:32.900 [main] INFO  testCases.TC_008_ProductDisplayPage - Starting TC_008_ProductDisplayPage
+21:20:39.004 [main] INFO  testCases.TC_008_ProductDisplayPage - Home Page Displayed 
+21:20:41.311 [main] INFO  testCases.TC_008_ProductDisplayPage - Enter any Product
+21:20:43.947 [main] INFO  testCases.TC_008_ProductDisplayPage - clicked on the search button
+21:27:30.436 [main] INFO  testCases.TC_001_AccountRegistrationPage - Launched chrome Browser
+21:27:30.491 [main] INFO  testCases.TC_001_AccountRegistrationPage - Strating TC_001_AccountRegistration
+21:27:34.864 [main] INFO  testCases.TC_001_AccountRegistrationPage - Home Page Displayed 
+21:27:36.403 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on My Account 
+21:27:37.330 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on Register 
+21:27:37.529 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided First Name 
+21:27:37.689 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Last Name 
+21:27:37.894 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Email 
+21:27:38.066 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Telephone 
+21:27:38.202 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Password 
+21:27:38.356 [main] INFO  testCases.TC_001_AccountRegistrationPage - Provided Confrmed Password 
+21:27:38.465 [main] INFO  testCases.TC_001_AccountRegistrationPage - Set Privacy Policy 
+21:27:41.365 [main] INFO  testCases.TC_001_AccountRegistrationPage - Clicked on Continue 
+21:27:46.435 [main] INFO  testCases.TC_001_AccountRegistrationPage - Account Registration Success 
+21:27:46.438 [main] INFO  testCases.TC_001_AccountRegistrationPage - Finished TC_001_AccountRegistration
+21:27:49.842 [main] INFO  testCases.TC_008_ProductDisplayPage - Launched chrome Browser
+21:27:49.854 [main] INFO  testCases.TC_008_ProductDisplayPage - Starting TC_008_ProductDisplayPage
+21:27:54.291 [main] INFO  testCases.TC_008_ProductDisplayPage - Home Page Displayed 
+21:27:56.669 [main] INFO  testCases.TC_008_ProductDisplayPage - Enter any Product
+21:27:59.422 [main] INFO  testCases.TC_008_ProductDisplayPage - clicked on the search button
+21:30:02.453 [main] INFO  testCases.TC_008_ProductDisplayPage - Launched chrome Browser
+21:30:02.493 [main] INFO  testCases.TC_008_ProductDisplayPage - Starting TC_008_ProductDisplayPage
+21:30:06.723 [main] INFO  testCases.TC_008_ProductDisplayPage - Home Page Displayed 
+21:30:09.042 [main] INFO  testCases.TC_008_ProductDisplayPage - Enter any Product
+21:30:11.537 [main] INFO  testCases.TC_008_ProductDisplayPage - clicked on the search button
+21:31:14.056 [main] INFO  testCases.TC_008_ProductDisplayPage - Launched chrome Browser
+21:31:14.223 [main] INFO  testCases.TC_008_ProductDisplayPage - Starting TC_008_ProductDisplayPage
+21:31:17.842 [main] INFO  testCases.TC_008_ProductDisplayPage - Home Page Displayed 
+21:31:20.250 [main] INFO  testCases.TC_008_ProductDisplayPage - Enter any Product
+21:31:24.280 [main] INFO  testCases.TC_008_ProductDisplayPage - clicked on the search button
+21:49:36.290 [main] INFO  testCases.TC_008_ProductDisplayPage - Launched chrome Browser
+21:49:36.368 [main] INFO  testCases.TC_008_ProductDisplayPage - Starting TC_008_ProductDisplayPage
+21:49:41.614 [main] INFO  testCases.TC_008_ProductDisplayPage - Home Page Displayed 
+21:49:43.968 [main] INFO  testCases.TC_008_ProductDisplayPage - Enter any Product
+21:49:46.778 [main] INFO  testCases.TC_008_ProductDisplayPage - clicked on the search button
+21:55:40.352 [main] INFO  testCases.TC_008_ProductDisplayPage - Launched chrome Browser
+21:55:40.404 [main] INFO  testCases.TC_008_ProductDisplayPage - Starting TC_008_ProductDisplayPage
+21:55:45.811 [main] INFO  testCases.TC_008_ProductDisplayPage - Home Page Displayed 
+21:55:48.160 [main] INFO  testCases.TC_008_ProductDisplayPage - Enter any Product
+21:55:50.509 [main] INFO  testCases.TC_008_ProductDisplayPage - clicked on the search button
+22:01:05.812 [main] INFO  testCases.TC_008_ProductDisplayPage - Launched chrome Browser
+22:01:06.070 [main] INFO  testCases.TC_008_ProductDisplayPage - Starting TC_008_ProductDisplayPage
+22:01:12.525 [main] INFO  testCases.TC_008_ProductDisplayPage - Home Page Displayed 
+22:01:15.050 [main] INFO  testCases.TC_008_ProductDisplayPage - Enter any Product
+22:01:19.313 [main] INFO  testCases.TC_008_ProductDisplayPage - clicked on the search button
+22:03:56.590 [main] INFO  testCases.TC_008_ProductDisplayPage - Launched chrome Browser
+22:03:56.667 [main] INFO  testCases.TC_008_ProductDisplayPage - Starting TC_008_ProductDisplayPage
+22:04:02.647 [main] INFO  testCases.TC_008_ProductDisplayPage - Home Page Displayed 
+22:04:05.017 [main] INFO  testCases.TC_008_ProductDisplayPage - Enter any Product
+22:04:07.360 [main] INFO  testCases.TC_008_ProductDisplayPage - clicked on the search button
+22:23:40.214 [main] INFO  testCases.TC_008_ProductDisplayPage - Launched chrome Browser
+22:23:40.336 [main] INFO  testCases.TC_008_ProductDisplayPage - Starting TC_008_ProductDisplayPage
+22:23:43.669 [main] INFO  testCases.TC_008_ProductDisplayPage - Home Page Displayed 
+22:23:46.160 [main] INFO  testCases.TC_008_ProductDisplayPage - Enter any Product
+22:23:49.426 [main] INFO  testCases.TC_008_ProductDisplayPage - clicked on the search button
+22:23:55.993 [main] INFO  testCases.TC_008_ProductDisplayPage - clicked on the image
+22:23:58.131 [main] INFO  testCases.TC_008_ProductDisplayPage - click the Product
+22:24:00.395 [main] INFO  testCases.TC_008_ProductDisplayPage - clicked on right side arrow
+22:24:02.467 [main] INFO  testCases.TC_008_ProductDisplayPage - clicked on right side arrow
+22:24:04.562 [main] INFO  testCases.TC_008_ProductDisplayPage - clicked on left side arrow
+22:24:06.645 [main] INFO  testCases.TC_008_ProductDisplayPage - clicked on left side arrow
+22:24:08.754 [main] INFO  testCases.TC_008_ProductDisplayPage - clicked on esc Button
+22:24:08.754 [main] INFO  testCases.TC_008_ProductDisplayPage -  Finished TC_008_ProductDisplayPage
+22:25:12.779 [main] INFO  testCases.TC_008_ProductDisplayPage - Launched chrome Browser
+22:25:12.823 [main] INFO  testCases.TC_008_ProductDisplayPage - Starting TC_008_ProductDisplayPage
+22:25:17.020 [main] INFO  testCases.TC_008_ProductDisplayPage - Home Page Displayed 
+22:25:19.438 [main] INFO  testCases.TC_008_ProductDisplayPage - Enter any Product
+22:25:21.968 [main] INFO  testCases.TC_008_ProductDisplayPage - clicked on the search button
+22:25:27.744 [main] INFO  testCases.TC_008_ProductDisplayPage - clicked on the image
+22:25:30.448 [main] INFO  testCases.TC_008_ProductDisplayPage - click the Product
+22:25:32.539 [main] INFO  testCases.TC_008_ProductDisplayPage - clicked on right side arrow
+22:25:34.621 [main] INFO  testCases.TC_008_ProductDisplayPage - clicked on right side arrow
+22:25:36.715 [main] INFO  testCases.TC_008_ProductDisplayPage - clicked on left side arrow
+22:25:38.794 [main] INFO  testCases.TC_008_ProductDisplayPage - clicked on left side arrow
+22:25:40.888 [main] INFO  testCases.TC_008_ProductDisplayPage - clicked on esc Button
+22:25:40.888 [main] INFO  testCases.TC_008_ProductDisplayPage -  Finished TC_008_ProductDisplayPage
+22:37:07.870 [main] INFO  testCases.TC_008_ProductDisplayPage - Launched chrome Browser
+22:37:07.934 [main] INFO  testCases.TC_008_ProductDisplayPage - Starting TC_008_ProductDisplayPage
+22:37:13.580 [main] INFO  testCases.TC_008_ProductDisplayPage - Home Page Displayed 
+22:37:16.066 [main] INFO  testCases.TC_008_ProductDisplayPage - Enter any Product
+22:37:19.166 [main] INFO  testCases.TC_008_ProductDisplayPage - clicked on the search button
+22:37:27.510 [main] INFO  testCases.TC_008_ProductDisplayPage - clicked on the image
+22:37:29.623 [main] INFO  testCases.TC_008_ProductDisplayPage - click the Product
+22:37:31.785 [main] INFO  testCases.TC_008_ProductDisplayPage - clicked on right side arrow
+22:37:33.863 [main] INFO  testCases.TC_008_ProductDisplayPage - clicked on right side arrow
+22:37:35.967 [main] INFO  testCases.TC_008_ProductDisplayPage - clicked on left side arrow
+22:37:38.049 [main] INFO  testCases.TC_008_ProductDisplayPage - clicked on left side arrow
+22:37:40.159 [main] INFO  testCases.TC_008_ProductDisplayPage - clicked on esc Button
+22:37:40.159 [main] INFO  testCases.TC_008_ProductDisplayPage -  Finished TC_008_ProductDisplayPage
+22:38:59.761 [main] INFO  testCases.TC_008_ProductDisplayPage - Launched chrome Browser
+22:38:59.833 [main] INFO  testCases.TC_008_ProductDisplayPage - Starting TC_008_ProductDisplayPage
+22:39:05.922 [main] INFO  testCases.TC_008_ProductDisplayPage - Home Page Displayed 
+22:39:08.218 [main] INFO  testCases.TC_008_ProductDisplayPage - Enter any Product
+22:39:10.845 [main] INFO  testCases.TC_008_ProductDisplayPage - clicked on the search button
+22:39:18.658 [main] INFO  testCases.TC_008_ProductDisplayPage - clicked on the image
+22:39:21.814 [main] INFO  testCases.TC_008_ProductDisplayPage - click the Product
+22:39:23.923 [main] INFO  testCases.TC_008_ProductDisplayPage - clicked on right side arrow
+22:39:26.014 [main] INFO  testCases.TC_008_ProductDisplayPage - clicked on right side arrow
+22:39:28.106 [main] INFO  testCases.TC_008_ProductDisplayPage - clicked on left side arrow
+22:39:30.225 [main] INFO  testCases.TC_008_ProductDisplayPage - clicked on left side arrow
+22:39:32.330 [main] INFO  testCases.TC_008_ProductDisplayPage - clicked on esc Button
+22:39:32.330 [main] INFO  testCases.TC_008_ProductDisplayPage -  Finished TC_008_ProductDisplayPage
+08:50:18.197 [main] INFO  testCases.TC_008_ProductDisplayPage - Launched chrome Browser
+08:50:18.437 [main] INFO  testCases.TC_008_ProductDisplayPage - Starting TC_008_ProductDisplayPage
+08:50:33.822 [main] INFO  testCases.TC_008_ProductDisplayPage - Home Page Displayed 
+08:50:36.263 [main] INFO  testCases.TC_008_ProductDisplayPage - Enter any Product
+08:50:39.341 [main] INFO  testCases.TC_008_ProductDisplayPage - clicked on the search button
+08:50:51.364 [main] INFO  testCases.TC_008_ProductDisplayPage - clicked on the image
+08:50:53.503 [main] INFO  testCases.TC_008_ProductDisplayPage - click the Product
+08:50:55.609 [main] INFO  testCases.TC_008_ProductDisplayPage - clicked on right side arrow
+08:50:57.682 [main] INFO  testCases.TC_008_ProductDisplayPage - clicked on right side arrow
+08:50:59.805 [main] INFO  testCases.TC_008_ProductDisplayPage - clicked on left side arrow
+08:51:01.890 [main] INFO  testCases.TC_008_ProductDisplayPage - clicked on left side arrow
+08:51:03.999 [main] INFO  testCases.TC_008_ProductDisplayPage - clicked on esc Button
+08:51:04.000 [main] INFO  testCases.TC_008_ProductDisplayPage -  Finished TC_008_ProductDisplayPage
+12:09:39.714 [main] INFO  testCases.TC_009_WishList - Launched chrome Browser
+12:09:39.869 [main] INFO  testCases.TC_009_WishList - Starting TC_009_WishList
+12:09:43.825 [main] INFO  testCases.TC_009_WishList - Home Page Displayed 
+12:09:46.191 [main] INFO  testCases.TC_009_WishList - Enter any Product
+12:09:49.495 [main] INFO  testCases.TC_009_WishList - clicked on the search button
+12:09:54.337 [main] INFO  testCases.TC_009_WishList - clicked on the searched image
+12:09:55.475 [main] INFO  testCases.TC_009_WishList - Clicked on the WishList Symbol
+12:10:05.508 [main] FATAL testCases.TC_009_WishList - WishList Failed
+12:12:38.303 [main] INFO  testCases.TC_009_WishList - Launched chrome Browser
+12:12:38.363 [main] INFO  testCases.TC_009_WishList - Starting TC_009_WishList
+12:12:43.002 [main] INFO  testCases.TC_009_WishList - Home Page Displayed 
+12:12:45.380 [main] INFO  testCases.TC_009_WishList - Enter any Product
+12:12:48.176 [main] INFO  testCases.TC_009_WishList - clicked on the search button
+12:12:53.133 [main] INFO  testCases.TC_009_WishList - clicked on the searched image
+12:12:54.255 [main] INFO  testCases.TC_009_WishList - Clicked on the WishList Symbol
+12:13:04.594 [main] FATAL testCases.TC_009_WishList - WishList Failed
+12:13:50.512 [main] INFO  testCases.TC_009_WishList - Launched chrome Browser
+12:13:50.564 [main] INFO  testCases.TC_009_WishList - Starting TC_009_WishList
+12:13:54.603 [main] INFO  testCases.TC_009_WishList - Home Page Displayed 
+12:13:56.955 [main] INFO  testCases.TC_009_WishList - Enter any Product
+12:13:58.951 [main] INFO  testCases.TC_009_WishList - clicked on the search button
+12:14:04.370 [main] INFO  testCases.TC_009_WishList - clicked on the searched image
+12:14:07.544 [main] INFO  testCases.TC_009_WishList - Clicked on the WishList Symbol
+12:14:17.618 [main] FATAL testCases.TC_009_WishList - WishList Failed
+12:21:20.884 [main] INFO  testCases.TC_009_WishList - Launched chrome Browser
+12:21:20.952 [main] INFO  testCases.TC_009_WishList - Starting TC_009_WishList
+12:21:25.302 [main] INFO  testCases.TC_009_WishList - Home Page Displayed 
+12:21:27.627 [main] INFO  testCases.TC_009_WishList - Enter any Product
+12:21:29.882 [main] INFO  testCases.TC_009_WishList - clicked on the search button
+12:21:34.339 [main] INFO  testCases.TC_009_WishList - clicked on the searched image
+12:21:37.451 [main] INFO  testCases.TC_009_WishList - Clicked on the WishList Symbol
+12:21:47.513 [main] FATAL testCases.TC_009_WishList - WishList Failed
+12:25:22.672 [main] INFO  testCases.TC_009_WishList - Launched chrome Browser
+12:25:22.722 [main] INFO  testCases.TC_009_WishList - Starting TC_009_WishList
+12:25:27.405 [main] INFO  testCases.TC_009_WishList - Home Page Displayed 
+12:25:29.995 [main] INFO  testCases.TC_009_WishList - Enter any Product
+12:25:32.902 [main] INFO  testCases.TC_009_WishList - clicked on the search button
+12:25:37.799 [main] INFO  testCases.TC_009_WishList - clicked on the searched image
+12:25:40.922 [main] INFO  testCases.TC_009_WishList - Clicked on the WishList Symbol
+12:25:43.022 [main] INFO  testCases.TC_009_WishList - Clicked on MyAccount
+12:25:45.897 [main] INFO  testCases.TC_009_WishList - Clicked on the Login
+12:25:46.324 [main] INFO  testCases.TC_009_WishList - Email is provided
+12:25:46.641 [main] INFO  testCases.TC_009_WishList - Password is Provided
+12:25:48.037 [main] INFO  testCases.TC_009_WishList - Clicked on Login Button
+12:25:58.109 [main] INFO  testCases.TC_009_WishList - Search Success
+12:25:58.113 [main] INFO  testCases.TC_009_WishList - TC_009_WishList Complited
+12:51:01.452 [main] INFO  testCases.TC_009_WishList - Launched chrome Browser
+12:51:01.658 [main] INFO  testCases.TC_009_WishList - Starting TC_009_WishList
+12:51:06.044 [main] INFO  testCases.TC_009_WishList - Home Page Displayed 
+12:51:08.344 [main] INFO  testCases.TC_009_WishList - Enter any Product
+12:51:10.759 [main] INFO  testCases.TC_009_WishList - clicked on the search button
+12:51:15.158 [main] INFO  testCases.TC_009_WishList - clicked on the searched image
+12:51:18.303 [main] INFO  testCases.TC_009_WishList - Clicked on the WishList Symbol
+12:51:20.405 [main] INFO  testCases.TC_009_WishList - Clicked on MyAccount
+12:51:23.903 [main] INFO  testCases.TC_009_WishList - Clicked on the Login
+12:51:24.123 [main] INFO  testCases.TC_009_WishList - Email is provided
+12:51:24.255 [main] INFO  testCases.TC_009_WishList - Password is Provided
+12:51:25.787 [main] INFO  testCases.TC_009_WishList - Clicked on Login Button

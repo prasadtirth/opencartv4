@@ -7,17 +7,54 @@
 
   <test thread-count="5" name="Test">
    
+<<<<<<< HEAD
    <parameter name="browser" value="chrome"></parameter>
    
    
     <classes>
       <class name="testCases.TC_001_AccountRegistrationPage"/>
+=======
+   <parameter name="browser" value="chrome"></parameter>   
+   
+      <classes>
+      <class name="testCases.TC_001_AccountRegistrationPage"/> 
+>>>>>>> 9aa5b90 (All TestCases Are Added To The GitHub)
       <class name="testCases.TC_002_Login"/>
       <class name="testCases.TC_003_LoginDDT"/>   
       <class name="testCases.TC_004_Search"/>
       <class name="testCases.TC_005_Forgot_Password"/>    
+<<<<<<< HEAD
       <class name="testCases.TC_006_AddToCart"/>          
       
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
+=======
+      <class name="testCases.TC_006_AddToCart"/>         
+      <class name="testCases.TC_007_CompareProduct"/>  
+      <class name="testCases.TC_008_ProductDisplayPage"/>    
+      <class name="testCases.TC_009_WishList"/>             
+      <class name="testCases.TC_010_ShoppingCart"/>  
+      <class name="testCases.TC_011_Checkout"/>       
+      <class name="testCases.TC_012_MyAccount"/>            
+      <class name="testCases.TC_013_MyAccountInformation"/>     
+      <class name="testCases.TC_014_ChangePassword"/>       
+      <class name="testCases.TC_015_AddressBook"/>            
+      <class name="testCases.TC_016_Order_History"/>    
+      <class name="testCases.TC_017_Downloads"/>        
+      <class name="testCases.TC_018_RewardsPoint"/>      
+      <class name="testCases.TC_019_ReturnRequest"/>     
+      <class name="testCases.TC_020_Transactions"/>       
+      <class name="testCases.TC_021_RecurringPayment"/>    
+      <class name="testCases.TC_022_NewsLetter"/>       
+      <class name="testCases.TC_023_Affiliate"/>      
+      <class name="testCases.TC_024_ContactUs"/>        
+      <class name="testCases.TC_025_FooterOption"/>      
+      <class name="testCases.TC_027_GiftCertificate"/>
+      
+      
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
+>>>>>>> 9aa5b90 (All TestCases Are Added To The GitHub)

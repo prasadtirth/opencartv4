@@ -3,6 +3,14 @@
   <groupId>opencartv4</groupId>
   <artifactId>opencartv4</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+<<<<<<< HEAD
+=======
+  
+  <properties>
+              <java.version>17.0.2</java.version>
+  </properties>
+  
+>>>>>>> 9aa5b90 (All TestCases Are Added To The GitHub)
 
   <build>
     <pluginManagement>

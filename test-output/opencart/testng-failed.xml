@@ -7,6 +7,7 @@
   <test thread-count="5" name="Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
+<<<<<<< HEAD
       <class name="testCases.TC_006_AddToCart">
         <methods>
           <include name="tearDown"/>
@@ -14,6 +15,29 @@
           <include name="setup"/>
         </methods>
       </class> <!-- testCases.TC_006_AddToCart -->
+=======
+      <class name="testCases.TC_011_Checkout">
+        <methods>
+          <include name="tearDown"/>
+          <include name="test_Checkout"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testCases.TC_011_Checkout -->
+      <class name="testCases.TC_013_MyAccountInformation">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="test_MyAccountInformation"/>
+        </methods>
+      </class> <!-- testCases.TC_013_MyAccountInformation -->
+      <class name="testCases.TC_012_MyAccount">
+        <methods>
+          <include name="tearDown"/>
+          <include name="test_MyAccount"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testCases.TC_012_MyAccount -->
+>>>>>>> 9aa5b90 (All TestCases Are Added To The GitHub)
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [opencart] -->
